@@ -1,4 +1,4 @@
-# Project Title
+# Natasha Kelly - 100 Days of Code Challenge 
 
 This is log and brief overview of the projects created from 100 Days of Code Challenge. 
 
