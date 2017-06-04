@@ -6,7 +6,8 @@
 
 **Thoughts:** : I struggled through this! I will need more practice with this concept
 
-**Link to work:** [Thistle Daily Menu CLI]("https://github.com/gURLmeetsCode/Day-01-100-Thistle_CLI_App.git")
+**Link to work:** 
+* [Thistle Daily Menu CLI]("https://github.com/gURLmeetsCode/Day-01-100-Thistle_CLI_App.git")
 
 ### Day 2: June 2, 2017 
 
@@ -14,5 +15,14 @@
 
 **Thoughts:**: My initial thoughts are the framework has alot of little nuances however I seemed to understand this better than React. 
 
-**Link to work:** [User Contact List]("https://github.com/gURLmeetsCode/Day-02-100-vuejs_spa.git")
+**Link to work:** 
+* [User Contact List]("https://github.com/gURLmeetsCode/Day-02-100-vuejs_spa.git")
 
+### Day 3: June 3, 2017 
+
+**Today's Progress**: I worked on MySQL tutorial on Learn.co and Code School. This topic is part of the curriculum and I wanted to mak sure I have a deep understanding. I also worked on my portfolio -- I am so proud of what I was able to accomplish. 
+
+**Thoughts:**: Today was hard -- not from the learning material but I was just tired and overloaded. 
+
+**Link to work:** 
+* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/nk-react-app.git")

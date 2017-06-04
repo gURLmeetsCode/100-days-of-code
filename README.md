@@ -19,6 +19,8 @@ This is a comprehensive list of all the technoligies used throughout this challe
 * [material-ui]()
 * [webpack]()
 * [babel]()
+* [Vue.js]()
+* [MySQL]()
 
 ## Author
 
