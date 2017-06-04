@@ -25,4 +25,13 @@
 **Thoughts:**: Today was hard -- not from the learning material but I was just tired and overloaded. 
 
 **Link to work:** 
-* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/nk-react-app.git")
+* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/portfolio.git")
+
+### Day 4: June 4, 2017 
+
+**Today's Progress**: I worked on deployment! My initial goal was to deploy using firebase but I ran into some difficulty. Not with firebase but with Next.js. So I decided to look into Heroku and Now ( a deployment feature from the creators of Next.js). In the end I went back to working with firebase.
+
+**Thoughts:**: I did not get the site deployed due to errors with next build and next start. I will continue to work on this. 
+
+**Link to work:** 
+* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/portfolio.git")
