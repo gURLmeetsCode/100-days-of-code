@@ -43,7 +43,7 @@
 **Thoughts:**: It was cool to see the functionalities of the device and how easy it is to create and publish a new skill.
 
 **Link to work:** 
-* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/portfolio.git")
+* [Alexa Skill Sample]("https://github.com/gURLmeetsCode/skill-sample-nodejs-fact.git")
 
 ### Day 6: June 6, 2017 
 
