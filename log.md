@@ -35,3 +35,28 @@
 
 **Link to work:** 
 * [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/portfolio.git")
+
+### Day 5: June 5, 2017 
+
+**Today's Progress**: I attended a video conference which covered how to build an Alexa Skill Set with AWS and Node.js.
+
+**Thoughts:**: It was cool to see the functionalities of the device and how easy it is to create and publish a new skill.
+
+**Link to work:** 
+* [Natasha's React Portfolio]("https://github.com/gURLmeetsCode/portfolio.git")
+
+### Day 6: June 6, 2017 
+
+**Today's Progress**: Today was a challenging day for me so I mainly focused on the Learn.co material.
+
+**Thoughts:**: Speaking with Quincy Larson helped improve my day!!
+
+
+### Day 7: June 7, 2017 
+
+**Today's Progress**: Today I built a small application using the Twitter API. The primary focus was to see how Big Data is collected and then used in Machine Learning. This project also helped me to refresh my python skills. 
+
+**Thoughts:**: I think it is cool to see the power of Twitter and just how much user data it collects. This is also a bit scary to know nothing is "private".
+
+**Link to work:** 
+* [Twitter API App]("https://github.com/gURLmeetsCode/07_twitter_api_tester.git")
